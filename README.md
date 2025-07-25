@@ -13,22 +13,25 @@
 ### Multiple Choice
 
 **1. Welcher Code importiert korrekt einen Google Font?**
-a) `@import url('https://fonts.google.com/roboto');`
-b) `@import url('https://fonts.googleapis.com/css2?family=Roboto');`
-c) `<link href="fonts.google.com/roboto" rel="stylesheet">`
-d) `font-family: 'Roboto', google;`
+
+    a) `@import url('https://fonts.google.com/roboto');`
+    b) `@import url('https://fonts.googleapis.com/css2?family=Roboto');`
+    c) `<link href="fonts.google.com/roboto" rel="stylesheet">`
+    d) `font-family: 'Roboto', google;`
 
 **2. Was bedeutet font-display: swap?**
-a) Der Font wird sofort ausgetauscht
-b) Fallback-Text wird angezeigt bis der Font geladen ist
-c) Der Font wird gespiegelt dargestellt
-d) Der Font wechselt zwischen zwei Varianten
+
+    a) Der Font wird sofort ausgetauscht
+    b) Fallback-Text wird angezeigt bis der Font geladen ist
+    c) Der Font wird gespiegelt dargestellt
+    d) Der Font wechselt zwischen zwei Varianten
 
 **3. Welche font-weight Werte sind Standard?**
-a) light, normal, heavy
-b) 100, 400, 700
-c) thin, regular, bold
-d) small, medium, large
+
+    a) light, normal, heavy
+    b) 100, 400, 700
+    c) thin, regular, bold
+    d) small, medium, large
 
 ### Code-Aufgaben Fonts
 
@@ -151,10 +154,10 @@ d) start
 
 **Aufgabe 12:** Performance-Frage: Welche dieser Animationen ist am smoothesten?
 
-a) `transition: left 0.3s ease;`
-b) `transition: margin-left 0.3s ease;`
-c) `transition: transform 0.3s ease;`
-d) `transition: width 0.3s ease;`
+    a) `transition: left 0.3s ease;`
+    b) `transition: margin-left 0.3s ease;`
+    c) `transition: transform 0.3s ease;`
+    d) `transition: width 0.3s ease;`
 
 ### Debugging-Aufgaben
 
